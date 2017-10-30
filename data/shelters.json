@@ -1,0 +1,23 @@
+{
+	shelters: [
+							{
+								name: Maury County & City of Columbia Animal Control
+							},
+							{
+								name: Montgomery County Animal Care & Control
+							},
+							{
+								name: Williamson County Animal Center
+							},
+							{
+								name: Metro Animal Care & Control
+							},
+							{
+								name: Cheatham County Animal Control
+							},
+							{
+								name: R.A.R.E.
+							}
+
+	]
+}
