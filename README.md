@@ -18,8 +18,8 @@ Build an application for the Freedom Ride initiative that would make the relocat
 **Freedom Rides**: A monthly/bi-monthly ride from source shelters to destination shelters. One ride could involve multiple source shelters, destination shelters, and up to 15 dogs.
 
 Dog status:
-	**Available**: Dogs uploaded in app - have not been selected by a destination shelter
-	**Selected**: Available dogs that have been selected by a destination shelter
-	**On Ride**: Selected dogs that have been chosen for a ride by TOTT
-	**Delivered**: On Ride dogs that have been on completed rides
-	**Adopted**: Delivered dogs that have been marked as adopted by TOTT
+	**Available**: Dogs uploaded in app - have not been selected by a destination shelter<br>
+	**Selected**: Available dogs that have been selected by a destination shelter<br>
+	**On Ride**: Selected dogs that have been chosen for a ride by TOTT<br>
+	**Delivered**: On Ride dogs that have been on completed rides<br>
+	**Adopted**: Delivered dogs that have been marked as adopted by TOTT<br>
