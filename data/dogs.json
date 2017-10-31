@@ -1,0 +1,463 @@
+[
+	{
+		"name": "Acorn",
+		"breed": "German Shepherd",
+		"age": 1,
+		"sex": "male",
+		"weight": 67,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Clove",
+		"breed": "Labrador Retriever",
+		"age": 2,
+		"sex": "male",
+		"weight": 55,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Cornucopia",
+		"breed": "Rottweiler",
+		"age": 3,
+		"sex": "female",
+		"weight": 84,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Cranberry",
+		"breed": "Beagle",
+		"age": 4,
+		"sex": "female",
+		"weight": 22,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Ginger",
+		"breed": "Bulldog",
+		"age": 5,
+		"sex": "male",
+		"weight": 51,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Gravy",
+		"breed": "Golden Retriever",
+		"age": 1,
+		"sex": "male",
+		"weight": 65,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Maize",
+		"breed": "Great Dane",
+		"age": 2,
+		"sex": "female",
+		"weight": 101,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Mayflower",
+		"breed": "Poodle",
+		"age": 3,
+		"sex": "female",
+		"weight": 17,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Branches",
+		"breed": "Doberman Pinscher",
+		"age": 4,
+		"sex": "male",
+		"weight": 59,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	}
+	{
+		"name": "Leaf",
+		"breed": "Dachshund",
+		"age": 5,
+		"sex": "male",
+		"weight": 16,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	}
+	{
+		"name": "Persimmon",
+		"breed": "Siberian Husky",
+		"age": 1,
+		"sex": "female",
+		"weight": 44,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Squash",
+		"breed": "English Mastiff",
+		"age": 2,
+		"sex": "female",
+		"weight": 123,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Marshmallow",
+		"breed": "Boxer",
+		"age": 3,
+		"sex": "male",
+		"weight": 58,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Nutmeg",
+		"breed": "Chihuahua",
+		"age": 4,
+		"sex": "male",
+		"weight": 5,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Pie",
+		"breed": "Pug",
+		"age": 5,
+		"sex": "female",
+		"weight": 22,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Sage",
+		"breed": "Border Collie",
+		"age": 1,
+		"sex": "female",
+		"weight": 33,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Stuffing",
+		"breed": "Yorkshire Terrier",
+		"age": 2,
+		"sex": "male",
+		"weight": 7,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Turkey",
+		"breed": "Pit Bull",
+		"age": 3,
+		"sex": "male",
+		"weight": 52,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Pecan",
+		"breed": "Pit Bull",
+		"age": 4,
+		"sex": "female",
+		"weight": 49,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	},
+	{
+		"name": "Oak",
+		"breed": "Pit Bull",
+		"age": 5,
+		"sex": "female",
+		"weight": 47,
+		"intakeType":
+		"intakeDate":
+		"dateAvailable":
+		"chipNumber":
+		"healthCertDate":
+		"dappDate":
+		"bordDate":
+		"rabiesDate":
+		"hwDate":
+		"hwStatus":
+		"description":
+		"rideNotes":
+		"status":
+		"sourceShelterId":
+		"destinationShelterId":
+		"rideId":
+	}
+
+]
