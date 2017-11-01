@@ -1,14 +1,18 @@
 'use strict';
 module.exports = (sequelize, DataTypes) => {
-  var Ride = sequelize.define('Ride', {
-    date: DataTypes.STRING,
-    status: DataTypes.STRING
-  }, {
-    classMethods: {
-      associate: function(models) {
-        // associations can be defined here
-      }
+  var Ride = sequelize.define(
+    'Ride',
+    {
+      date: DataTypes.DATE,
+      complete: DataTypes.BOOLEAN
     }
-  });
+  );
+
+  Ride.associate = models => {
+    Ride.hasMany(models.Dog, {
+      foreignKey: 'rideId'
+    });
+  };
+
   return Ride;
 };

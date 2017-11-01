@@ -11,18 +11,6 @@ module.exports = {
       name: {
         type: Sequelize.STRING
       },
-      contactName: {
-        type: Sequelize.STRING
-      },
-      phoneNumber: {
-        type: Sequelize.STRING
-      },
-      email: {
-        type: Sequelize.STRING
-      },
-      dateAdded: {
-        type: Sequelize.STRING
-      },
       streetAddress: {
         type: Sequelize.STRING
       },
@@ -41,22 +29,40 @@ module.exports = {
       driveTime: {
         type: Sequelize.STRING
       },
+      restrictions: {
+        type: Sequelize.STRING(1000)
+      },
+      preferences: {
+        type: Sequelize.STRING(1000)
+      },
       alters: {
+        type: Sequelize.STRING
+      },
+      deliveryPreferences: {
+        type: Sequelize.STRING(1000)
+      },
+      transportVan: {
         type: Sequelize.STRING
       },
       adoptionSpeed: {
         type: Sequelize.STRING
       },
-      breedRest: {
-        type: Sequelize.STRING
-      },
-      preferences: {
-        type: Sequelize.STRING
-      },
       rating: {
         type: Sequelize.INTEGER
       },
-      status: {
+      contactName: {
+        type: Sequelize.STRING
+      },
+      email: {
+        type: Sequelize.STRING
+      },
+      phoneNumber: {
+        type: Sequelize.STRING
+      },
+      notes: {
+        type: Sequelize.STRING(1000)
+      },
+      role: {
         type: Sequelize.STRING
       },
       createdAt: {

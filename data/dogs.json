@@ -6,8 +6,8 @@
 		"sex": "male",
 		"weight": 67,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -15,12 +15,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "available",
 		"sourceShelterId": 12,
 		"destinationShelterId": null,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Clove",
@@ -29,8 +31,8 @@
 		"sex": "male",
 		"weight": 55,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -38,12 +40,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "selected",
 		"sourceShelterId": 17,
 		"destinationShelterId": 1,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Cornucopia",
@@ -52,8 +56,8 @@
 		"sex": "female",
 		"weight": 84,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -61,12 +65,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "onride",
 		"sourceShelterId": 16,
 		"destinationShelterId": 5,
-		"rideId": 6
+		"rideId": 6,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Cranberry",
@@ -75,8 +81,8 @@
 		"sex": "female",
 		"weight": 22,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -84,12 +90,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "delivered",
 		"sourceShelterId": 15,
-		"destinationShelterId": 9
-		"rideId": 1
+		"destinationShelterId": 9,
+		"rideId": 1,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Ginger",
@@ -98,8 +106,8 @@
 		"sex": "male",
 		"weight": 51,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -107,12 +115,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "adopted",
 		"sourceShelterId": 14,
 		"destinationShelterId": 11,
-		"rideId": 5
+		"rideId": 5,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Gravy",
@@ -121,8 +131,8 @@
 		"sex": "male",
 		"weight": 65,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -130,12 +140,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "available",
 		"sourceShelterId": 13,
 		"destinationShelterId": null,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Maize",
@@ -144,8 +156,8 @@
 		"sex": "female",
 		"weight": 101,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -153,12 +165,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "selected",
 		"sourceShelterId": 12,
 		"destinationShelterId": 2,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Mayflower",
@@ -167,8 +181,8 @@
 		"sex": "female",
 		"weight": 17,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -176,12 +190,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "onride",
 		"sourceShelterId": 17,
 		"destinationShelterId": 6,
-		"rideId": 6
+		"rideId": 6,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Branches",
@@ -190,8 +206,8 @@
 		"sex": "male",
 		"weight": 59,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -199,13 +215,15 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "delivered",
 		"sourceShelterId": 16,
 		"destinationShelterId": 10,
-		"rideId": 2
-	}
+		"rideId": 2,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
+	},
 	{
 		"name": "Leaf",
 		"breed": "Dachshund",
@@ -213,8 +231,8 @@
 		"sex": "male",
 		"weight": 16,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -222,13 +240,15 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "adopted",
 		"sourceShelterId": 15,
 		"destinationShelterId": 11,
-		"rideId": 3
-	}
+		"rideId": 3,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
+	},
 	{
 		"name": "Persimmon",
 		"breed": "Siberian Husky",
@@ -236,8 +256,8 @@
 		"sex": "female",
 		"weight": 44,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -245,12 +265,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "available",
 		"sourceShelterId": 14,
 		"destinationShelterId": null,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Squash",
@@ -259,8 +281,8 @@
 		"sex": "female",
 		"weight": 123,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -268,12 +290,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "selected",
 		"sourceShelterId": 13,
 		"destinationShelterId": 3,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Marshmallow",
@@ -282,8 +306,8 @@
 		"sex": "male",
 		"weight": 58,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -291,12 +315,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "onride",
 		"sourceShelterId": 12,
 		"destinationShelterId": 7,
-		"rideId": 6
+		"rideId": 6,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Nutmeg",
@@ -305,8 +331,8 @@
 		"sex": "male",
 		"weight": 5,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -314,12 +340,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "delivered",
 		"sourceShelterId": 12,
 		"destinationShelterId": 1,
-		"rideId": 3
+		"rideId": 3,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Pie",
@@ -328,8 +356,8 @@
 		"sex": "female",
 		"weight": 22,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -337,12 +365,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "adopted",
 		"sourceShelterId": 13,
 		"destinationShelterId": 11,
-		"rideId": 1
+		"rideId": 1,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Sage",
@@ -351,8 +381,8 @@
 		"sex": "female",
 		"weight": 33,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -360,12 +390,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "available",
 		"sourceShelterId": 15,
 		"destinationShelterId": null,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Stuffing",
@@ -374,8 +406,8 @@
 		"sex": "male",
 		"weight": 7,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -383,12 +415,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "selected",
 		"sourceShelterId": 12,
 		"destinationShelterId": 4,
-		"rideId": null
+		"rideId": null,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Turkey",
@@ -397,8 +431,8 @@
 		"sex": "male",
 		"weight": 52,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -406,12 +440,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": null,
 		"status": "onride",
 		"sourceShelterId": 17,
 		"destinationShelterId": 8,
-		"rideId": 6
+		"rideId": 6,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Pecan",
@@ -420,8 +456,8 @@
 		"sex": "female",
 		"weight": 49,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -429,12 +465,14 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "delivered",
 		"sourceShelterId": 16,
 		"destinationShelterId": 2,
-		"rideId": 4
+		"rideId": 4,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"name": "Oak",
@@ -443,8 +481,8 @@
 		"sex": "female",
 		"weight": 47,
 		"intakeType": "Owner surrender",
-		"intakeDate": "2017-06-02T04:13:01.892Z"
-		"dateAvailable": "2017-09-15T04:13:01.892Z"
+		"intakeDate": "2017-06-02T04:13:01.892Z",
+		"dateAvailable": "2017-09-15T04:13:01.892Z",
 		"chipNumber": "1234",
 		"healthCertDate": "2017-10-27T04:13:01.892Z",
 		"dappDate": "2017-10-27T04:13:01.892Z",
@@ -452,12 +490,13 @@
 		"rabiesDate": "2017-10-27T04:13:01.892Z",
 		"hwDate": "2017-10-27T04:13:01.892Z",
 		"hwStatus": "NEG",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id."
+		"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"rideNotes": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla quam velit, vulputate eu pharetra nec, mattis ac neque. Duis vulputate commodo lectus, ac blandit elit tincidunt id.",
 		"status": "adopted",
 		"sourceShelterId": 15,
 		"destinationShelterId": 11,
-		"rideId": 2
+		"rideId": 2,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	}
-
 ]

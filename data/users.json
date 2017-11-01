@@ -4,126 +4,179 @@
 		"name": "Tails of the Trail",
 		"email": "hello@tailsofthetrail.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "admin"
+		"role": "admin",
+		"admin": true,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "maurycounty",
 		"name": "Maury County & City of Columbia Animal Control",
 		"email": "hello@maurycountyanimalcontrol.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "source"
+		"role": "source",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "montgomerycounty",
 		"name": "Montgomery County Animal Care & Control",
 		"email": "hello@montgomerycountyanimalcontrol.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "source"
+		"role": "source",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "williamsoncounty",
 		"name": "Williamson County Animal Center",
 		"email": "hello@williamsoncountyanimalcenter.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "source"
+		"role": "source",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "metro",
 		"name": "Metro Animal Care & Control",
 		"email": "hello@metroanimalcontrol.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "source"
+		"role": "source",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "cheathamcounty",
 		"name": "Cheatham County Animal Control",
 		"email": "hello@cheathamcountyanimalcontrol.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "source"
+		"role": "source",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "rare",
 		"name": "R.A.R.E.",
 		"email": "hello@rare.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "source"
+		"role": "source",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "anderson",
 		"name": "Anderson Animal Shelter",
 		"email": "hello@andersonanimalshelter.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
-
 	{
 		"username": "southsuburban",
 		"name": "South Suburban Humane Society",
 		"email": "hello@southsuburbanhumanesociety.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "animalwelfarefriends",
 		"name": "Animal Welfare Friends",
 		"email": "hello@animalwelfarefriends.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "dubuqueregional",
 		"name": "Dubuque Regional Humane Society",
 		"email": "hello@dubuqueregionalhumanesociety.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "paw",
 		"name": "P.A.W.",
 		"email": "hello@paw.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "keokuk",
 		"name": "Keokuk Humane Scoiety",
 		"email": "hello@keokukhumanesociety.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "watauga",
 		"name": "Watauga Humane Society",
 		"email": "hello@wataugahumanesociety.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "brandywinevalley",
 		"name": "Brandywine Valley SPCA",
 		"email": "hello@brandywinevalleyspca.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "animalwelfareassoc",
 		"name": "Animal Welfare Association",
 		"email": "hello@animalwelfareassoc.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "kentuckyhumane",
 		"name": "Kentucky Humane Society",
 		"email": "hello@kentuckyhumanesociety.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
 		"username": "daytonrescue",
 		"name": "Greater Dayton Lab Retriever Rescue",
 		"email": "hello@greaterdaytonrescue.org",
 		"password": "$2a$08$rqhHcOC8ShTrQr6pPs1co.NZUKeuq/t5X5K09HJbg0ujvxLjRBeHq",
-		"role": "destination"
+		"role": "destination",
+		"admin": false,
+		"createdAt": "2017-02-15T15:18:13.841Z",
+		"updatedAt": "2017-10-23T20:23:48.927Z"
 	}
 ]

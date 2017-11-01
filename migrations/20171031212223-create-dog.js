@@ -27,28 +27,28 @@ module.exports = {
         type: Sequelize.STRING
       },
       intakeDate: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       dateAvailable: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       chipNumber: {
         type: Sequelize.STRING
       },
       healthCertDate: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       dappDate: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       bordDate: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       rabiesDate: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       hwDate: {
-        type: Sequelize.STRING
+        type: Sequelize.DATE
       },
       hwStatus: {
         type: Sequelize.STRING
@@ -56,7 +56,10 @@ module.exports = {
       description: {
         type: Sequelize.STRING
       },
-      notes: {
+      rideNotes: {
+        type: Sequelize.STRING
+      },
+      status: {
         type: Sequelize.STRING
       },
       sourceShelterId: {
@@ -67,9 +70,6 @@ module.exports = {
       },
       rideId: {
         type: Sequelize.INTEGER
-      },
-      status: {
-        type: Sequelize.STRING
       },
       createdAt: {
         allowNull: false,
