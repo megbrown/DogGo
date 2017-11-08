@@ -7,9 +7,8 @@ router.get('/', (req, res, next) => {
   res.render('index');
 });
 
-router.use(require('./select'));
-router.use(require('./rides'));
-router.use(require('./shelters'));
-router.use(require('./dogs'));
+router.use(require('./dogRoute'));
+router.use(require('./rideRoute'));
+router.use(require('./shelterRoute'));
 
 module.exports = router;
