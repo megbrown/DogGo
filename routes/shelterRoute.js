@@ -5,7 +5,9 @@ const router = Router();
 
 const {
 	getAllShelters,
-	getSingeShelter,
+	getSingleShelter,
+	showNewShelterForm,
+	showEditShelterForm,
 	addNewShelter,
 	editShelter,
 	deleteShelter
@@ -13,6 +15,8 @@ const {
 
 router.get('/shelters', getAllShelters);
 router.get('/shelters/:id', getSingleShelter);
+router.get('/new-shelter', showNewShelterForm);
+router.get('/edit-shelter', showEditShelterForm);
 router.post('/new-shelter', addNewShelter);
 router.post('/edit-Shelter', editShelter);
 router.post('/sheters/:id', deleteShelter);

@@ -9,7 +9,7 @@ module.exports.getAllDogs = (req, res, next) => {
 };
 
 module.exports.getSingleDog = (req, res, next) => {
-	res.render('singe-dog');
+	res.render('single-dog');
 };
 
 module.exports.updateDogStatus = (req, res, next) => {
