@@ -9,6 +9,6 @@ router.get('/', (req, res, next) => {
 
 router.use(require('./dogRoute'));
 router.use(require('./rideRoute'));
-router.use(require('./ShelterRoute'));
+router.use(require('./shelterRoute'));
 
 module.exports = router;
