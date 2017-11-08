@@ -1,11 +1,29 @@
 'use strict';
 
 module.exports.getAllShelters = (req, res, next) => {
-	res.render('all-shelters');
+	const { Shelter } = req.app.get('models');
+	Shelter
+		.findAll()
+		.then(results => {
+			// res.json(results);
+			res.render('all-shelters');
+		})
+		.catch(err => {
+			next(err);
+		})
 };
 
 module.exports.getSingleShelter = (req, res, next) => {
-	res.render('single-shelter');
+	const { Shelter } = req.app.get('models');
+	Shelter
+		.findById(req.params.id)
+		.then(results => {
+			res.json(results);
+			// res.render('single-shelter');
+		})
+		.catch(err => {
+			next(err);
+		})
 };
 
 module.exports.showNewShelterForm = (req, res, next) => {
