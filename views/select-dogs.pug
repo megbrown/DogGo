@@ -14,7 +14,7 @@ block content
 		tbody
 			each dog in selectedDogs
 				tr
-					td #{dog.name}
+					td: a(href=`/dogs/${dog.id}`) #{dog.name}
 					td #{dog.breed}
 					td #{dog.sex}
 					td #{dog.age}

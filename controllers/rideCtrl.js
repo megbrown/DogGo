@@ -38,7 +38,7 @@ module.exports.getCurrentRide = (req, res, next) => {
 			]
 		})
 		.then(results => {
-			res.json(results);
-			// res.render('ride-list');
+			let currentRide = results[0];
+			res.render('ride-list', { currentRide });
 		})
 };
