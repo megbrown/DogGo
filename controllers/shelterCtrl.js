@@ -17,5 +17,5 @@ module.exports.editShelter = (req, res, next) => {
 };
 
 module.exports.deleteShelter = (req, res, next) => {
-	res.render('delete-shelter');
+	res.render('all-shelters');
 };
