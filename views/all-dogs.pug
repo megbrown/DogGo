@@ -1,4 +1,20 @@
 extends layout.pug
 block content
+  a(href="/dogs/:id")
   h1 All the dogs
-  a(href=`/dogs/${1}`) Just one dog
+  table(class="table")
+    thead
+      tr
+        th Name
+        th Breed
+        th Sex
+        th Age
+        th Description
+    tbody
+      each dog in results
+        tr
+          td: a(href=`/dogs/${dog.id}`) #{dog.name}
+          td #{dog.breed}
+          td #{dog.sex}
+          td #{dog.age}
+          td #{dog.description}
