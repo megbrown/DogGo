@@ -1,4 +1,23 @@
 extends layout.pug
 block content
-  h1 Ride list
-  a(href="/ride-history") Ride History
+	h1 Ride list
+	a(href="/ride-history") Ride History
+	table(class="table")
+		thead
+			tr
+				- let date = (currentRide.date).toString().substring(0, 15)
+				th(colspan="5") Ride for #{date}
+			tr
+				th Name
+				th Breed
+				th Sex
+				th Age
+				th Description
+		tbody
+			each dog in currentRide.Dogs
+				tr
+					td: a(href=`/dogs/${dog.id}`) #{dog.name}
+					td #{dog.breed}
+					td #{dog.sex}
+					td #{dog.age}
+					td #{dog.description}

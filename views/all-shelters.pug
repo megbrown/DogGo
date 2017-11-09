@@ -1,5 +1,24 @@
 extends layout.pug
 block content
-  h1 All the shelters
-  a(href=`/shelters/${1}`) Just one shelter
-  a(href="/new-shelter") Add shelter
+	h1 All the shelters
+	a(href="/new-shelter") Add shelter
+	table(class="table")
+		thead
+			tr
+				th Name
+				th State
+				th Zipcode
+				th Rating
+				th Contact
+				th Phone
+				th Role
+		tbody
+			each shelter in results
+				tr
+					td: a(href=`/shelters/${shelter.id}`) #{shelter.shelterName}
+					td #{shelter.state}
+					td #{shelter.zipCode}
+					td #{shelter.rating}
+					td #{shelter.contactName}
+					td #{shelter.phoneNumber}
+					td #{shelter.role}

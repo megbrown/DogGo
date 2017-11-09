@@ -1,6 +1,6 @@
 [
   {
-    "name": "Anderson Animal Shelter",
+    "shelterName": "Anderson Animal Shelter",
     "streetAddress": "1000 S La Fox Street",
     "city": "South Elgin",
     "state": "IL",
@@ -23,7 +23,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "South Suburban Humane Society",
+    "shelterName": "South Suburban Humane Society",
     "streetAddress": "1103 W End Ave",
     "city": "Chicago Heights",
     "state": "IL",
@@ -46,7 +46,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Animal Welfare Friends",
+    "shelterName": "Animal Welfare Friends",
     "streetAddress": "22407 Business Hwy 151",
     "city": "Monticello",
     "state": "IA",
@@ -69,7 +69,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Dubuque Regional Humane Society",
+    "shelterName": "Dubuque Regional Humane Society",
     "streetAddress": "4242 Chavenelle Rd",
     "city": "Dubuque",
     "state": "IA",
@@ -92,7 +92,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "P.A.W.",
+    "shelterName": "P.A.W.",
     "streetAddress": "2031 48th St",
     "city": "Fort Madison",
     "state": "IA",
@@ -115,7 +115,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Keokuk Humane Scoiety",
+    "shelterName": "Keokuk Humane Scoiety",
     "streetAddress": "1124 Johnson St",
     "city": "Keokuk",
     "state": "IA",
@@ -138,7 +138,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Watauga Humane Society",
+    "shelterName": "Watauga Humane Society",
     "streetAddress": "312 Paws Way",
     "city": "Boone",
     "state": "NC",
@@ -161,7 +161,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Brandywine Valley SPCA",
+    "shelterName": "Brandywine Valley SPCA",
     "streetAddress": "22918 S Dupont Blvd",
     "city": "Georgetown",
     "state": "DE",
@@ -184,7 +184,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Animal Welfare Association",
+    "shelterName": "Animal Welfare Association",
     "streetAddress": "509 Centennial Blvd",
     "city": "Voorhees Township",
     "state": "NJ",
@@ -207,7 +207,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Kentucky Humane Society",
+    "shelterName": "Kentucky Humane Society",
     "streetAddress": "1000 Lyndon Lane, Suite B",
     "city": "Louisville",
     "state": "KY",
@@ -230,7 +230,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
   {
-    "name": "Greater Dayton Lab Retriever Rescue",
+    "shelterName": "Greater Dayton Lab Retriever Rescue",
     "streetAddress": "325 Baker St",
     "city": "Brookville",
     "state": "OH",
@@ -253,7 +253,7 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
   },
 	{
-		"name": "Maury County & City of Columbia Animal Control",
+		"shelterName": "Maury County & City of Columbia Animal Control",
 		"streetAddress": "707 N Main St",
     "city": "Columbia",
     "state": "TN",
@@ -276,8 +276,8 @@
     "updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
-		"name": "Montgomery County Animal Care & Control",
-		"streetAddress": "616 N Spring St",
+	"shelterName": "Montgomery County Animal Care & Control",
+	"streetAddress": "616 N Spring St",
     "city": "Clarksville",
     "state": "TN",
     "zipCode": "37040",
@@ -294,13 +294,13 @@
     "email": "hello@montgomerycountyanimalcontrol.org",
     "phoneNumber": "931-648-5750",
     "notes": null,
-		"role": "source",
+	"role": "source",
     "createdAt": "2017-02-15T15:18:13.841Z",
     "updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
-		"name": "Williamson County Animal Center",
-		"streetAddress": "106 Claude Yates Dr",
+	"shelterName": "Williamson County Animal Center",
+	"streetAddress": "106 Claude Yates Dr",
     "city": "Franklin",
     "state": "TN",
     "zipCode": "37064",
@@ -317,13 +317,13 @@
     "email": "hello@williamsoncountyanimalcenter.org",
     "phoneNumber": "615-790-5590",
     "notes": null,
-		"role": "source",
+	"role": "source",
     "createdAt": "2017-02-15T15:18:13.841Z",
     "updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
-		"name": "Metro Animal Care & Control",
-		"streetAddress": "5125 Harding Pl",
+	"shelterName": "Metro Animal Care & Control",
+	"streetAddress": "5125 Harding Pl",
     "city": "Nashville",
     "state": "TN",
     "zipCode": "37211",
@@ -340,13 +340,13 @@
     "email": "hello@metroanimalcontrol.org",
     "phoneNumber": "615-862-7928",
     "notes": null,
-		"role": "source",
+	"role": "source",
     "createdAt": "2017-02-15T15:18:13.841Z",
     "updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
-		"name": "Cheatham County Animal Control",
-		"streetAddress": "2797 Sams Creek Rd",
+	"shelterName": "Cheatham County Animal Control",
+	"streetAddress": "2797 Sams Creek Rd",
     "city": "Pegram",
     "state": "TN",
     "zipCode": "37143",
@@ -363,13 +363,13 @@
     "email": "hello@cheathamcountyanimalcontrol.org",
     "phoneNumber": "615-792-3647",
     "notes": null,
-		"role": "source",
+	"role": "source",
     "createdAt": "2017-02-15T15:18:13.841Z",
     "updatedAt": "2017-10-23T20:23:48.927Z"
 	},
 	{
-		"name": "R.A.R.E.",
-		"streetAddress": "1481 Lasea Road",
+	"shelterName": "R.A.R.E.",
+	"streetAddress": "1481 Lasea Road",
     "city": "Columbia",
     "state": "TN",
     "zipCode": "38401",

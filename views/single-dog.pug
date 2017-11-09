@@ -1,3 +1,68 @@
 extends layout.pug
 block content
-  h1 Just one dog
+	h1 Just one dog
+	table(class="table")
+		thead
+			tr
+				th(colspan="4"): h3 #{result.name}
+		tbody
+			tr
+				th(colspan="3") Breed
+				td #{result.breed}
+			tr
+				th(colspan="3") Age
+				td #{result.age}
+			tr
+				th(colspan="3") Sex
+				td #{result.sex}
+			tr
+				th(colspan="3") Weight
+				td #{result.weight}
+			tr
+				th(colspan="3") Intake Type
+				td #{result.intakeType}
+			tr
+				th(colspan="3") Intake Date
+				td #{result.intakeDate}
+			tr
+				th(colspan="3") Date Available
+				td #{result.dateAvailable}
+			tr
+				th(colspan="3") Chip Number
+				td #{result.chipNumber}
+			tr
+				th(colspan="3") Health Certificate Date
+				td #{result.healthCertDate}
+			tr
+				th(colspan="3") Dapp Date
+				td #{result.dappDate}
+			tr
+				th(colspan="3") Bord Date
+				td #{result.bordDate}
+			tr
+				th(colspan="3") Rabies Date
+				td #{result.rabiesDate}
+			tr
+				th(colspan="3") Heartworm Date
+				td #{result.hwDate}
+			tr
+				th(colspan="3") Heartworm Status
+				td #{result.hwStatus}
+			tr
+				th(colspan="3") Description
+				td #{result.description}
+			tr
+				th(colspan="3") Ride Notes
+				td #{result.rideNotes}
+			tr
+				th(colspan="3") Status
+				td #{result.status}
+			tr
+				th(colspan="3") Source Shelter
+				td: a(href=`/shelters/${result.sourceShelterId}`) Shelter Name
+			tr
+				th(colspan="3") Destination Shelter
+				td: a(href=`/shelters/${result.destinationShelterId}`) Shelter Name
+			tr
+				th(colspan="3") Ride Date
+				td: a(href=`/ride-history`) Ride Date

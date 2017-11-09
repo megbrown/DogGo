@@ -3,7 +3,7 @@ module.exports = (sequelize, DataTypes) => {
   var Shelter = sequelize.define(
     'Shelter',
     {
-      name: DataTypes.STRING,
+      shelterName: DataTypes.STRING,
       streetAddress: DataTypes.STRING,
       city: DataTypes.STRING,
       state: DataTypes.STRING,
