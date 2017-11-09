@@ -16,9 +16,9 @@ const {
 router.get('/shelters', getAllShelters);
 router.get('/shelters/:id', getSingleShelter);
 router.get('/new-shelter', showNewShelterForm);
-router.get('/edit-shelter', showEditShelterForm);
+router.get('/edit-shelter/:id', showEditShelterForm);
 router.post('/new-shelter', addNewShelter);
-router.post('/edit-Shelter', editShelter);
+router.post('/edit-Shelter/:id', editShelter);
 router.post('/sheters/:id', deleteShelter);
 
 module.exports = router;
