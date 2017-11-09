@@ -17,9 +17,9 @@ module.exports.getSingleShelter = (req, res, next) => {
 	const { Shelter } = req.app.get('models');
 	Shelter
 		.findById(req.params.id)
-		.then(results => {
-			res.json(results);
-			// res.render('single-shelter');
+		.then(result => {
+			// res.json(result);
+			res.render('single-shelter', { result });
 		})
 		.catch(err => {
 			next(err);

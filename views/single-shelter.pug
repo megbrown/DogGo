@@ -1,4 +1,63 @@
 extends layout.pug
 block content
-  h1 Just one shelter
-  a(href="/edit-shelter") Edit shelter
+	h1 Just one shelter
+	a(href="/edit-shelter") Edit shelter
+	table(class="table")
+		thead
+			tr
+				th(colspan="4"): h3 #{result.shelterName}
+		tbody
+			tr
+				th(colspan="3") Role
+				td #{result.role}
+			tr
+				th(colspan="3") Street
+				td #{result.streetAddress}
+			tr
+				th(colspan="3") City
+				td #{result.city}
+			tr
+				th(colspan="3") State
+				td #{result.state}
+			tr
+				th(colspan="3") Zipcode
+				td #{result.zipCode}
+			tr
+				th(colspan="3") Mileage
+				td #{result.mileage}
+			tr
+				th(colspan="3") Drive Time
+				td #{result.driveTime}
+			tr
+				th(colspan="3") Restrictions
+				td #{result.restrictions}
+			tr
+				th(colspan="3") Preferences
+				td #{result.preferences}
+			tr
+				th(colspan="3") Need Alterations
+				td #{result.alters}
+			tr
+				th(colspan="3") Delivery Preferences
+				td #{result.deliveryPreferences}
+			tr
+				th(colspan="3") Transport Van
+				td #{result.transportVan}
+			tr
+				th(colspan="3") Adoption Speed
+				td #{result.adoptionSpeed}
+			tr
+				th(colspan="3") Rating
+				td #{result.rating}
+			tr
+				th(colspan="3") Contact Name
+				td #{result.contactName}
+			tr
+				th(colspan="3") Email
+				td #{result.email}
+			tr
+				th(colspan="3") Phone Number
+				td #{result.phoneNumber}
+			tr
+				th(colspan="3") Notes
+				td #{result.notes}
