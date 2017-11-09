@@ -41,9 +41,9 @@ module.exports.getSingleDog = (req, res, next) => {
 	const { Dog } = req.app.get('models');
 	Dog
 		.findById(req.params.id)
-		.then(results => {
-			res.json(results);
-			// res.render('single-dog');
+		.then(result => {
+			// res.json(result);
+			res.render('single-dog', { result });
 		})
 		.catch(err => {
 			next(err);
