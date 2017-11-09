@@ -7,18 +7,13 @@ module.exports.getAllRides = (req, res, next) => {
 			where: { complete: true },
 			include: [
 				{
-					model: Dog,
-					include: [
-						{
-							model: Shelter
-						}
-					]
+					model: Dog
 				}
 			]
 		})
 		.then(results => {
-			res.json(results);
-			// res.render('ride-history');
+			// res.json(results);
+			res.render('ride-history', { results });
 		})
 		.catch(err => {
 			next(err);

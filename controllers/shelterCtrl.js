@@ -6,7 +6,7 @@ module.exports.getAllShelters = (req, res, next) => {
 		.findAll()
 		.then(results => {
 			// res.json(results);
-			res.render('all-shelters');
+			res.render('all-shelters', { results });
 		})
 		.catch(err => {
 			next(err);
