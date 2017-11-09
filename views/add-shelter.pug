@@ -1,3 +1,43 @@
 extends layout.pug
 block content
-  h1 Add a shelter
+	h1 Add a shelter
+	form(name="add-shelter" method="post" action="/new-shelter")
+		.form-group
+			.row
+				.col-6
+					label(class="form-control-label" for="shelterName") Shelter Name
+					input(id="shelterName" type="text" class="form-control" placeholder="e.g. Humane Society" name="shelterName")
+					label(class="form-control-label" for="role") Role
+					input(id="role" type="text" class="form-control" placeholder="e.g. source" name="role")
+					label(class="form-control-label" for="street") Street
+					input(id="street" type="text" class="form-control" placeholder="e.g. 123 Main" name="streetAddress")
+					label(class="form-control-label" for="city") City
+					input(id="city" type="text" class="form-control" placeholder="e.g. Nashville" name="city")
+					label(class="form-control-label" for="state") State
+					input(id="state" type="text" class="form-control" placeholder="e.g. TN" name="state")
+					label(class="form-control-label" for="zipCode") Zipcode
+					input(id="zipCode" type="text" class="form-control" placeholder="e.g. 12345" name="zipCode")
+					label(class="form-control-label" for="mileage") Mileage
+					input(id="mileage" type="integer" class="form-control" placeholder="e.g. 567" name="mileage")
+					label(class="form-control-label" for="driveTime") Drive Time
+					input(id="driveTime" type="text" class="form-control" placeholder="e.g. 4:35" name="driveTime")
+					label(class="form-control-label" for="restrictions") Restrictions
+					input(id="restrictions" type="text" class="form-control" placeholder="e.g. No large breeds" name="restrictions")
+				.col-6
+					label(class="form-control-label" for="preferences") Preferences
+					input(id="preferences" type="text" class="form-control" placeholder="e.g. Golden Retrievers" name="preferences")
+					label(class="form-control-label" for="transportVan") Transport Van
+					input(id="transportVan" type="text" class="form-control" placeholder="e.g. Yes, willing to pick up" name="transportVan")
+					label(class="form-control-label" for="adoptionSpeed") Adoption Speed
+					input(id="adoptionSpeed" type="text" class="form-control" placeholder="e.g. Very fast" name="adoptionSpeed")
+					label(class="form-control-label" for="rating") Rating
+					input(id="rating" type="integer" class="form-control" placeholder="e.g. 5" name="rating")
+					label(class="form-control-label" for="contactName") Contact Name
+					input(id="contactName" type="text" class="form-control" placeholder="e.g. Maria Jones" name="contactName")
+					label(class="form-control-label" for="email") Email
+					input(id="email" type="email" class="form-control" placeholder="e.g. hello@hello.com" name="email")
+					label(class="form-control-label" for="phone") Phone Number
+					input(id="phoneNumber" type="text" class="form-control" placeholder="e.g. 865-984-7037" name="phoneNumber")
+					label(class="form-control-label" for="notes") Notes
+					input(id="notes" type="text" class="form-control" name="notes")
+					button(type="button" class="btn btn-primary pull-right") Submit
