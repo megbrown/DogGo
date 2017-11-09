@@ -31,7 +31,16 @@ module.exports.showNewShelterForm = (req, res, next) => {
 }
 
 module.exports.showEditShelterForm = (req, res, next) => {
-	res.render('edit-shelter');
+	const { Shelter } = req.app.get('models');
+	Shelter
+		.findById(req.params.id)
+		.then(result => {
+			// res.json(result);
+			res.render('edit-shelter', { result });
+		})
+		.catch(err => {
+			next(err);
+		})
 }
 
 module.exports.addNewShelter = (req, res, next) => {

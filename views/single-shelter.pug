@@ -1,7 +1,7 @@
 extends layout.pug
 block content
 	h1 Just one shelter
-	a(href="/edit-shelter") Edit shelter
+	a(href=`/edit-shelter/${result.id}`) Edit shelter
 	table(class="table")
 		thead
 			tr

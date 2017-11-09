@@ -1,3 +1,43 @@
 extends layout.pug
 block content
-  h1 Edit a shelter
+	h1 Edit a shelter
+	form(name="add-shelter" method="post" action="/new-shelter")
+		.form-group
+			.row
+				.col-6
+					label(class="form-control-label" for="shelterName") Shelter Name
+					input(id="shelterName" type="text" class="form-control" value=`${result.shelterName}` name="shelterName")
+					label(class="form-control-label" for="role") Role
+					input(id="role" type="text" class="form-control" value=`${result.role}` name="role")
+					label(class="form-control-label" for="street") Street
+					input(id="street" type="text" class="form-control" value=`${result.streetAddress}` name="streetAddress")
+					label(class="form-control-label" for="city") City
+					input(id="city" type="text" class="form-control" value=`${result.city}` name="city")
+					label(class="form-control-label" for="state") State
+					input(id="state" type="text" class="form-control" value=`${result.state}` name="state")
+					label(class="form-control-label" for="zipCode") Zipcode
+					input(id="zipCode" type="text" class="form-control" value=`${result.zipCode}` name="zipCode")
+					label(class="form-control-label" for="mileage") Mileage
+					input(id="mileage" type="integer" class="form-control" value=`${result.mileage}` name="mileage")
+					label(class="form-control-label" for="driveTime") Drive Time
+					input(id="driveTime" type="text" class="form-control" value=`${result.driveTime}` name="driveTime")
+					label(class="form-control-label" for="restrictions") Restrictions
+					input(id="restrictions" type="text" class="form-control" value=`${result.restrictions}` name="restrictions")
+				.col-6
+					label(class="form-control-label" for="preferences") Preferences
+					input(id="preferences" type="text" class="form-control" value=`${result.preferences}` name="preferences")
+					label(class="form-control-label" for="transportVan") Transport Van
+					input(id="transportVan" type="text" class="form-control" value=`${result.transportVan}` name="transportVan")
+					label(class="form-control-label" for="adoptionSpeed") Adoption Speed
+					input(id="adoptionSpeed" type="text" class="form-control" value=`${result.adoptionSpeed}` name="adoptionSpeed")
+					label(class="form-control-label" for="rating") Rating
+					input(id="rating" type="integer" class="form-control" value=`${result.rating}` name="rating")
+					label(class="form-control-label" for="contactName") Contact Name
+					input(id="contactName" type="text" class="form-control" value=`${result.contactName}` name="contactName")
+					label(class="form-control-label" for="email") Email
+					input(id="email" type="email" class="form-control" value=`${result.email}` name="email")
+					label(class="form-control-label" for="phone") Phone Number
+					input(id="phoneNumber" type="text" class="form-control" value=`${result.phoneNumber}` name="phoneNumber")
+					label(class="form-control-label" for="notes") Notes
+					input(id="notes" type="text" class="form-control" value=`${result.notes}` name="notes")
+					button(type="button" class="btn btn-primary pull-right") Submit
